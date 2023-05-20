@@ -1,1 +1,2 @@
 CONVERT_TO = elite_pi
+RGBLIGHT_ENABLE = yes
